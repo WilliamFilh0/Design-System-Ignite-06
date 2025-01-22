@@ -2,5 +2,10 @@
   "private": true,
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "json-schema": "^0.4.0",
+    "json5": "^2.2.3",
+    "semver": "^7.6.3"
+  }
 }
