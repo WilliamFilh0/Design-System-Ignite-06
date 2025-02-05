@@ -9,12 +9,12 @@ const preview: Preview = {
         date: /Date$/i,
       },
     },
-    // docs: {
-    //   theme: themes.dark,
-    // },
+    docs: {
+      theme: themes.dark,
+    },
   },
 
-  tags: ["autodocs"]
+  tags: ["autodocs"],
 };
 
 export default preview;
